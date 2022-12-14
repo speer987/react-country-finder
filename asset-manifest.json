@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-country-finder/static/css/main.316b9a7f.css",
+    "main.js": "/react-country-finder/static/js/main.138e1cd2.js",
+    "static/media/image_one.jpg": "/react-country-finder/static/media/image_one.442e214adfe312086cbf.jpg",
+    "static/media/image_two.jpg": "/react-country-finder/static/media/image_two.de5659898d3bfc5eb8ea.jpg",
+    "index.html": "/react-country-finder/index.html",
+    "main.316b9a7f.css.map": "/react-country-finder/static/css/main.316b9a7f.css.map",
+    "main.138e1cd2.js.map": "/react-country-finder/static/js/main.138e1cd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.316b9a7f.css",
+    "static/js/main.138e1cd2.js"
+  ]
+}
